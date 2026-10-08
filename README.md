@@ -1,1 +1,1 @@
-Job Application Tracker Details:
+To Do List Details:
