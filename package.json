@@ -1,0 +1,29 @@
+{
+  "name": "build_to_do_list",
+  "version": "1.0.0",
+  "description": "To Do List Details:",
+  "keywords": [],
+  "homepage": "https://github.com/abejeck/Build_To_Do_List#readme",
+  "bugs": {
+    "url": "https://github.com/abejeck/Build_To_Do_List/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abejeck/Build_To_Do_List.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "dotenv": "^17.4.2",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {}
+}
